@@ -8,8 +8,6 @@ Founder & full-stack engineer based in San Francisco. I build production softwar
 
 **[Yew](https://www.buildwithyew.com)** — a premium software studio for founders who need a real product shipped, not a slide deck. Next.js 16, TypeScript, Vercel. *Taking on new projects.*
 
-**FinessePicks** — AI sports picks SaaS. Live odds pipelines, sharp-money detection, subscription billing.
-
 ---
 
 ### 🛠 Stack
