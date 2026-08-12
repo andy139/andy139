@@ -31,6 +31,12 @@
 
 The interesting part isn't the stack. It's that I work the front desk, so I find out the same day when something I shipped makes a service advisor's job worse.
 
+### Agent evaluation
+
+I also write adversarial evaluations for coding agents. The work is building tasks a frontier model reliably fails, that still have objective tests any correct solution passes. Both halves are the hard part: make it too easy and it grades nothing, make it ambiguous and it grades the wrong thing.
+
+What it's taught me, and what feeds back into the code above: models fail in specific, reproducible ways, and the failure you assumed is usually not the failure you get. So I review model output the same way I review my own diffs, with a second model that has different blind spots.
+
 ### How I work
 
 - **Reproduce it end-to-end before fixing it.** If I can't trigger the bug the way a user hit it, I haven't found it yet.
