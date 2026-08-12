@@ -37,6 +37,14 @@ I also write adversarial evaluations for coding agents. The work is building tas
 
 What it's taught me, and what feeds back into the code above: models fail in specific, reproducible ways, and the failure you assumed is usually not the failure you get. So I review model output the same way I review my own diffs, with a second model that has different blind spots.
 
+### Before this
+
+**Supplyframe** (acquired by Siemens) — core pricing engine for an enterprise CPQ platform. Quoting rules, calculations, and configuration workflows across 50K+ SKUs, plus query tuning on catalog pipelines handling 200K+ records.
+
+**Red Bull Media House** — sole engineer on the ad-serving microservice for ServusTV. Third-party ad APIs (VAST/VPAID), insertion logic for pre-roll, mid-roll, and companion formats across 23 device types, and live/VOD playback infrastructure (HLS/DASH) streaming to 2M+ devices.
+
+Alongside that I built and launched **ScoreZero**, an AI credit-recovery product for post-bankruptcy users.
+
 ### How I work
 
 - **Reproduce it end-to-end before fixing it.** If I can't trigger the bug the way a user hit it, I haven't found it yet.
