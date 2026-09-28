@@ -1,6 +1,6 @@
 # Andy Tran
 
-Software engineer in San Francisco. I founded The Yew Company and build it as the sole engineer: [Yew Business](https://biz.yew.cash), card payments set up at your counter plus the software behind them, and Yew Pay, the payment engine underneath. The terminal, the web app, the ledger, the deploys, and the AI tools around them. Before that: backend at Red Bull Media House, then the pricing engine at Supplyframe, a Siemens company.
+Software engineer in San Francisco. I founded [Yew Payments](https://biz.yew.cash) and build it as the sole engineer: card payments set up at your counter, plus the software behind them. The terminal, the web app, the ledger, the deploys, and the AI tools around them. Before that: backend at Red Bull Media House, then the pricing engine at Supplyframe, a Siemens company.
 
 ## Talk to my AI
 
